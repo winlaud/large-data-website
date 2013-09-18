@@ -8,7 +8,7 @@ gender F
 
 job Student
 
-Hanna is just a normal girl attending Disney Elementary who seems to love all things furry and cute. She is your typical 12 year old girl going to school by day, fighting bad dreams by night. She is an important group for my website because she represents the younger generation or students that would like to find out more about bunnies as  a pet or for a preoject. Considering that this is a young age group, there should be a good use of color, and many pictures to entertain them.
+Hanna is just a normal girl attending Disney Elementary who seems to love all things furry and cute. She is your typical 12 year old girl going to school by day, fighting bad dreams by night. She is an important group for my website because she represents the younger generation or students that would like to find out more about bunnies as  a pet or for a project. Considering that this is a young age group, there should be a good use of color, and many pictures to entertain them.
 
 Personal goals Get information for her class project
 
