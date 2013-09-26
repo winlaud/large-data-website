@@ -2,13 +2,13 @@
 
 Name Hannah B.
 
-age 12
+age 9
 
 gender F
 
 job Student
 
-Hanna is just a normal girl attending Disney Elementary who seems to love all things furry and cute. She is your typical 12 year old girl going to school by day, fighting bad dreams by night. She is an important group for my website because she represents the younger generation or students that would like to find out more about bunnies as  a pet or for a project. Considering that this is a young age group, there should be a good use of color, and many pictures to entertain them.
+Hanna is just a normal girl attending Disney Elementary who seems to love all things furry and cute. She is your typical 9 year old girl going to school by day, fighting bad dreams by night. She is an important group for my website because she represents the younger generation or students that would like to find out more about bunnies as  a pet or for a project. Considering that this is a young age group, there should be a good use of color, and many pictures to entertain them.
 
 Personal goals Get information for her class project
 
@@ -31,11 +31,11 @@ gender M
 
 job Chef at a local family restaurant
 
-Bob is a local chef and foodie, being the chef in a local restaurant has him feeling liek he's in a rut. He feels as if he wants to work for a higher end restaurent in a bigger city. However, before he can achieve this, he needs to learn how to cook with more than the usual beef, pork, chicken. Bob is an important group for my website because he both represents the older age group that would visit my site and he represents the people who are most interested in making and eating food.
+Bob is a local chef and foodie, being the chef in a local restaurant has him feeling like he's in a rut. He feels as if he wants to work for a higher end restaurent in a bigger city. However, before he can achieve this, he needs to learn how to cook with more than the usual beef, pork, chicken. Bob is an important group for my website because he both represents the older age group that would visit my site and he represents the people who are most interested in making and eating food.
 
 Personal goals To learn more about this delecacy and possible recipies
 
-Technology skills Advanced. scours the internet for hours looking up new recipes and new inspiration about the latest cooking trends.
+Technology skills Advanced. Scours the internet for hours looking up new recipes and new inspiration about the latest cooking trends.
 
 Likes good food and good company
 
