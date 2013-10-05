@@ -7,7 +7,7 @@
 	- Diets of Pet vs Food Rabbits 
 - Contact
 
-- Kinds of Rabbit
+- Breed
 	- Rex Rabbit
 	- Cotton Tail Rabbit
 	- Flemish Giant
