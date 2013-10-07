@@ -26,22 +26,22 @@ h2,
 h3,
 nav ul {
 	font-family: 'Bitter', serif;
-	padding:0;
+	padding:0.8rem 0 0.3rem 0;
 	margin:0;
+	clear: both;
+}
+
+img {
+	width:100%;
+	padding: 0.3em;
 }
 
 p {
 	font-family: 'Roboto Slab', serif;
-	padding:0;
-	padding-bottom:1em;
+	padding:0 10% 1rem 0;
 	margin:0;
 }
 
-nav ul li {
-	padding: 0.5em;
-}
-
-/*tutorial*/
 nav ul ul {
 	display: none;
 }
@@ -52,56 +52,155 @@ nav ul ul {
 
 nav ul {
 	background: #efefef; 
-	background: linear-gradient(top, #efefef 0%, #bbbbbb 100%);  
-	background: -moz-linear-gradient(top, #efefef 0%, #bbbbbb 100%); 
-	background: -webkit-linear-gradient(top, #efefef 0%,#bbbbbb 100%); 
 	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
-	padding: 0 20px;
-	border-radius: 10px;  
+	border-radius: 10px;
+	width:100%;
+	text-align: center;
 	list-style: none;
 	position: relative;
-	display: inline-table;
+	display: block;
 }
-	nav ul:after {
-		content: ""; clear: both; display: block;
-	}
 
-nav ul li {
-	float: left;
+nav ul:after {
+	content: ""; clear: both; 
+	display: block;
 }
-	nav ul li:hover {
-		background: #4b545f;
-		background: linear-gradient(top, #4f5964 0%, #5f6975 40%);
-		background: -moz-linear-gradient(top, #4f5964 0%, #5f6975 40%);
-		background: -webkit-linear-gradient(top, #4f5964 0%,#5f6975 40%);
-	}
-		nav ul li:hover a {
-			color: #fff;
-		}
+
+nav ul li:hover {
+	background: #4b545f;
+}
+
+nav ul li:hover a {
+	color: #fff;
+}
 	
-	nav ul li a {
-		display: block; padding: 25px 40px;
-		color: #757575; text-decoration: none;
-	}
+nav ul li a {
+	display: inline-block; 
+	padding: 1em;
+	width: 100%;
+	color: #757575; 
+	text-decoration: none;
+}
 
 nav ul ul {
-	background: #5f6975; border-radius: 0px; padding: 0;
-	position: absolute; top: 100%;
+	background: #5f6975; 
+	border-radius: 0px; 
+	padding: 0;
+	position: absolute;
 }
-	nav ul ul li {
-		float: none; 
-		border-top: 1px solid #6b727c;
-		border-bottom: 1px solid #575f6a;
-		position: relative;
-	}
-		nav ul ul li a {
-			padding: 15px 40px;
-			color: #fff;
-		}	
-			nav ul ul li a:hover {
-				background: #4b545f;
-			}
+
+nav ul ul li {
+	float: none; 
+	border-top: 1px solid #6b727c;
+	border-bottom: 1px solid #575f6a;
+	position: relative;
+}
+
+nav ul ul li a {
+	padding:1em;
+	color: #fff;
+}	
+nav ul ul li a:hover {
+	background: #4b545f;
+}
 
 nav ul ul ul {
-	position: absolute; left: 100%; top:0;
+	position: static;
+	padding: 0;
+	margin:0;
+}
+
+.clear {
+	overflow: hidden;
+}
+
+@media only screen and (min-width: 38em) {
+	nav ul {
+		width:80%;
+		text-align: normal;
+	}
+
+	nav ul ul {
+		width: 40%;
+	}
+
+	nav ul ul ul {
+		width: 100%;
+	}
+
+	nav a,
+	nav ul ul ul a {
+		width: 100%;
+	}
+
+	nav ul li {
+		padding: 0 8%;
+		float: left;
+	}
+	
+	.fleft {
+		float: left;
+	}
+
+	.fright {
+		float: right;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+	nav ul {
+		width:60%;
+	}
+
+	div {
+		margin: 0;
+	}
+}
+
+@media only screen and (min-width: 60em) {
+	html {
+		font-size: 125%;
+	}
+}
+
+@media only screen and (min-width: 75em) {
+	html {
+		font-size: 150%;
+	}
+}
+
+@media only screen and (min-width: 87em) {
+	html {
+		font-size: 175%;
+	}
+}
+
+@media only screen and (min-width: 100em) {
+	html {
+		font-size: 200%;
+	}
+}
+
+@media only screen and (min-width: 120em) {
+	html {
+		font-size: 200%;
+	}
+}
+
+@media only screen and (min-width: 132em) {
+	html {
+		font-size: 230%;
+	}
+}
+
+@media only screen and (min-width: 150em) {
+	html {
+		font-size: 270%;
+	}
+}
+
+@media only screen and (min-width: 174em) {
+	html {
+		font-size: 300%;
+	}
 }
