@@ -1,1 +1,2 @@
 markdown: redcarpet
+exclude: ['ia', 'visual style', 'READEME.md', 'week2-ia']

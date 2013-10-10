@@ -114,6 +114,7 @@ nav ul ul ul {
 	overflow: hidden;
 }
 
+
 @media only screen and (min-width: 38em) {
 	nav ul {
 		width:80%;
@@ -138,6 +139,14 @@ nav ul ul ul {
 		float: left;
 	}
 	
+	.searchbar {
+		float: none;
+		clear: both;
+		width: 100%;
+		text-align: center;
+		padding: 5px;
+	}
+
 	.fleft {
 		float: left;
 	}
