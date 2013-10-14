@@ -8,7 +8,7 @@ summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands
 
 --- 
 
-![Holland Lop](http://upload.wikimedia.org/wikipedia/commons/6/6a/Holland_Lop_with_Broken_Orange_Coloring.jpg)
+<img src="http://upload.wikimedia.org/wikipedia/commons/6/6a/Holland_Lop_with_Broken_Orange_Coloring.jpg" alt="Holland Lop" class="fright unit-spacer unit-l-2-3">
 
 ###Appearance
 - Small compact breed

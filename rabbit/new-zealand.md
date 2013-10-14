@@ -8,7 +8,7 @@ summary: The **New Zealand White Rabbits** are a breed of rabbit,which are from 
 
 ---
 
-![New Zealand White Rabbit](http://upload.wikimedia.org/wikipedia/en/2/24/NewZealandWhiteRabbit.jpg)
+<img src="http://upload.wikimedia.org/wikipedia/en/2/24/NewZealandWhiteRabbit.jpg" alt="New Zealand White Rabbit" class="fright unit-spacer unit-l-2-3">
 
 ###Appearance
 - Well-rounded bodies

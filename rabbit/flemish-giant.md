@@ -8,7 +8,7 @@ summary: The **Flemish Giant** is a breed of domestic rabbit (Oryctolagus cunicu
 
 ---
 
-![Flemish Giant](http://upload.wikimedia.org/wikipedia/commons/4/40/Flemish_giant_fawn_doe.jpg)
+<img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Flemish_giant_fawn_doe.jpg" alt="Flemish Giant" class="fright unit-spacer unit-l-2-3">
 
 ###Appearance
 - One of the largest breeds of domestic rabbit

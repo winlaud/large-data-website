@@ -49,9 +49,12 @@ ul,
 dt,
 dd {
 	font-family: 'Roboto Slab', serif;
-	padding: 0;
+	padding: 3px;
 	margin: 0;
-	list-style-type: none;
+}
+
+ul li ul {
+	padding-left:20px; 
 }
 
 nav ul {
@@ -125,6 +128,7 @@ nav ul ul li a:hover {
 }
 
 
+
 @media only screen and (min-width: 38em) {
 	nav ul {
 		width:80%;
@@ -180,6 +184,18 @@ nav ul ul li a:hover {
 		font-size: 125%;
 	}
 
+	div,
+	dl{
+		margin: 0;
+	}
+
+	.half {
+	width: 50%;
+	}
+
+	p {
+		padding: 0;
+	}
 }
 
 @media only screen and (min-width: 75em) {
