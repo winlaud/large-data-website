@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<h1 id="top">Breeds of Rabbit</h1>
+<p>Different breeds of Rabbit serve different purposes. Rabbits come in neat shapes, sizes, and colors. Breeds can be different by length of fur, ears and feet too!</p>
+
+<div>
+	{% for rabbit in site.pages %}
+		{% if rabbit.type == 'rabbit' %}
+			<ul>
+				<li id="{{rabbit.id}}">
+					<dl> 
+						<h2>{{rabbit.title}}</h2>
+						<dt> {{rabbit.image}}
+							<dd>
+								{{rabbit.size}}
+							</dd>
+							<dd>
+								{{rabbit.summary | markdownify}}
+							</dd>
+						</dt>
+						{{rabbit.content | markdownify}}
+					</dl>
+					<a href="#top">Back to Top</a>
+				</li>
+			</ul>
+		{% endif %}
+	{% endfor %}
+</div>

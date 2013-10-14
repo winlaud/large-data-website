@@ -9,7 +9,7 @@
 
 - Breed
 	- Rex Rabbit
-	- Cotton Tail Rabbit
+	- Marsh Rabbit
 	- Flemish Giant
 	- Lops
 		- English Lop
