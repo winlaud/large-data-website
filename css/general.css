@@ -119,6 +119,18 @@ nav ul ul li a:hover {
 	background: #EB6368;
 }
 
+.button {
+	background-color: #AC1F24;
+	color: #F7F198;
+	padding: 10px 20px;
+	border-radius: 5px;
+	box-shadow: 0px 0px 9px rgba(0,0,0,0.15);
+}
+
+.button:hover{
+	
+}
+
 .clear {
 	overflow: hidden;
 }
@@ -126,8 +138,6 @@ nav ul ul li a:hover {
 .search {
 	vertical-align: text-top;
 }
-
-
 
 @media only screen and (min-width: 38em) {
 	nav ul {
@@ -165,7 +175,7 @@ nav ul ul li a:hover {
 	}
 }
 
-@media only screen and (min-width: 60em) {
+@media only screen and (min-width: 50em) {
 	nav ul {
 		width:60%;
 	}
