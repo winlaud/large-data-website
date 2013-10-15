@@ -7,7 +7,7 @@ size: Medium
 summary: **The Rex Rabbit** is a breed of rabbit developed in France in 1919. Their unique, dense, plush, velvet-like fur, was caused by a mutation seen in wild rabbits in France in the late 19th century. The Rex mutation is recessive and causes the hair to protrude outwards from the body, instead of lying flat, and the guard hairs to be shortened to the length of the undercoat. 
 
 ---
-<img src="http://upload.wikimedia.org/wikipedia/commons/7/7c/Broken_Castor_Rex_Rabbit.JPG" alt="Rex Rabbit" class="fright unit-spacer unit-l-2-3">
+<img src="http://upload.wikimedia.org/wikipedia/commons/7/7c/Broken_Castor_Rex_Rabbit.JPG" alt="Rex Rabbit" class="unit-spacer unit-l-1-2">
 
 ###Appearance 
 - The fur should be between 1/2 and 7/8 an inch in length (1.3-2.2 centimeters)

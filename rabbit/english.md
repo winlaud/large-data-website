@@ -8,7 +8,7 @@ summary: The **English Lop** is a fancy breed of domestic rabbit that was develo
 
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/e/ed/English_Lop_Rabbit.jpg" alt="English Lop" class="fright unit-spacer unit-l-2-3">
+<img src="http://upload.wikimedia.org/wikipedia/commons/e/ed/English_Lop_Rabbit.jpg" alt="English Lop" class="unit-spacer unit-l-1-2">
 
 ###Appearance
 - Longer and of a more slender

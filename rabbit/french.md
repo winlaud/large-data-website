@@ -8,7 +8,7 @@ summary: The **French Lop** is a popular breed of domestic rabbit that was first
 
 ---
 
-<img src="http://farm2.staticflickr.com/1113/769506545_b7424ca532_b.jpg" alt="French Lop" class="fright unit-spacer unit-l-2-3">
+<img src="http://farm2.staticflickr.com/1113/769506545_b7424ca532_b.jpg" alt="French Lop" class="unit-spacer unit-l-1-2">
 
 ### Appearance
 - Lop ears of between 5 to 8 inches

@@ -8,7 +8,7 @@ summary: The **marsh rabbit** (Sylvilagus palustris) is a small cottontail rabbi
 
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/c/c2/Marsh_Rabbit.jpg" atl="Marsh Rabbit" class="fright unit-spacer unit-l-2-3">
+<img src="http://upload.wikimedia.org/wikipedia/commons/c/c2/Marsh_Rabbit.jpg" atl="Marsh Rabbit" class="unit-spacer unit-l-1-2">
 
 ###Appearance
 - Smaller ears, legs, and tail than Eastern Cottontail
