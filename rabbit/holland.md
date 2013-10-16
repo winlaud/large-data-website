@@ -2,7 +2,7 @@
 layout: default
 id: hlop
 title: Holland Lop
-type: rabbitl
+type: 2coll
 size: Small
 summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands. The breed was recognized by the Netherlands' Governing Rabbit Council in 1964 and the American Rabbit Breeders' Association in 1979. They are popular house pets, and are very popular and competitive for show. They are also known for their sweet temperament and nonaggressive behavior, though they retain a certain doglike tenacity.
 
@@ -32,18 +32,10 @@ summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands
 - Broken: Any color in conjunction with white.
 
 
-###Diet
-A high quality pellet feed (protein ~ 15-16%), along with unlimited timothy hay and fresh water and exercise will maintain a healthy individual.
-
-
 ###History
 
 - Because of demand and supply, this breed was bred to be smaller and smaller
-
 - In Germany and Denmark the Medium sized "Mini Lop" is more popular. 
-
 - The Holland Lop was first brought to England in 1969/70 by George Scott of Yorkshire county via a Dutch contact.
-
 - During the winter of 1978/79, a number of Holland Lops were imported from Holland
-
 - The Dutch lines introduced into the United States produced the Madagascar (Sooty Fawn/Tort) and the Sable Point, the two most favored colors in Hollands.

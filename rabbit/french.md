@@ -2,7 +2,7 @@
 layout: default
 id: flop
 title: French Lop
-type: rabbitr
+type: 2colr
 size: Large
 summary: The **French Lop** is a popular breed of domestic rabbit that was first developed in France in the 19th century out of selective breeding between the English Lop and the Flemish Giant. The French Lop differs from the English in that it is characterized by a heavier stature and shorter ears. The French Lop weighs in at around four and a half kilograms and has an average lifespan of five years or more.
 
@@ -27,13 +27,6 @@ summary: The **French Lop** is a popular breed of domestic rabbit that was first
 - Broken marked
 - Chinchilla
 - Sooty-fawn.
-
-### Diet
-The most important component of the diet of a French Lop rabbit is hay. Grass hays such as timothy are generally preferred over legume hays like clover and alfalfa. 
-
-It is recommended that the French Lop receive a standard intake of a high quality, high protein pellet. It is common for some owners to provide treats, although in very limited quantities, which can include a few pellets, a slice of strawberry, or other healthy foods. Commercial treats are available in the pet stores in shops and can be occasionally used, although even more sparingly, since they typically feature a higher sugar and starch content.
-
-Some of the vegetables that rabbits enjoy are romaine lettuce, escarole, turnips, collard, kale, parsley, thyme, cilantro, dandelion, and basil. The green, leafy tops of radish and carrots also are excellent sources of nutrients—more than the vegetable itself. New vegetables should be introduced slowly due to the delicate digestive systems of rabbits. It is recommended that cauliflower, broccoli and cabbage be avoided, as they cause gas and can lead to gastrointestinal stasis, which can be fatal. Vegetables such as potatoes and corn should also avoided due to their high starch content. French Lops also require an unlimited amount of fresh water, usually provided for in a water crock, tip-proof ceramic pet dish, or hanging water bottle.
 
 ### History
 - First bred in France around 1850

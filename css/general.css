@@ -44,12 +44,16 @@ p {
 	margin:0;
 }
 
+div dd ul li {
+	margin-left: 45px;
+}
+
 ul li,
 ul,
 dt,
 dd {
 	font-family: 'Roboto Slab', serif;
-	padding: 3px;
+	padding: 10px;
 	margin: 0;
 }
 
@@ -164,7 +168,7 @@ nav ul ul li a:hover {
 @media only screen and (min-width: 38em) {
 	nav ul {
 		width:80%;
-		text-align: normal;
+		text-align: center;
 	}
 
 	nav ul ul {
@@ -190,16 +194,13 @@ nav ul ul li a:hover {
 
 	.fleft {
 		float: left;
-		position: relative;
-		display: inline-block;
 	}
 
 	.fright {
 		float: right;
-		position: relative;
-		display: inline-block;
 	}
 }
+
 
 @media only screen and (min-width: 50em) {
 	nav ul {

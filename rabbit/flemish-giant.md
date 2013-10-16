@@ -2,7 +2,7 @@
 layout: default
 id: flemish
 title: Flemish Giant Rabbit
-type: rabbitl
+type: 2coll
 size: Large
 summary: The **Flemish Giant** is a breed of domestic rabbit (Oryctolagus cuniculus) known for its large size.
 
@@ -29,13 +29,6 @@ ARBA standard has seven different colors:
 - Sandy
 - Steel gray
 - White
-
-###Diet
-Flemish Giants can be fed like other rabbits, with the amount increased to match their larger size. ARBA recommendations include hay and occasional treats.
-
-In supplementing a commercial diet, care must be taken to avoid excess protein, calories, and minerals such as salt and calcium, which in excess can cause kidney stones. Overfeeding leading to obesity is a major health concern for both commercial and pet rabbits.
-
-The House Rabbit Society recommends 2 cups of chopped leafy vegetables per 6 pounds (3 kg) of body weight and no more than 2 tablespoons of fruit or carrots per 6 pounds of body weight daily.
 
 ###History
 - Originated in Flanders
