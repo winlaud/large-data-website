@@ -53,8 +53,13 @@ dd {
 	margin: 0;
 }
 
-ul li ul {
-	padding-left:20px; 
+dl dt{
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+ul li{
+	margin-left:15px;
 }
 
 nav ul {
@@ -72,6 +77,10 @@ nav ul {
 nav ul:after {
 	content: ""; clear: both; 
 	display: block;
+}
+
+nav ul li {
+	margin: 0;
 }
 
 nav ul li:hover {
@@ -95,6 +104,7 @@ nav ul ul {
 	border-radius: 0px; 
 	padding: 0;
 	position: absolute;
+	margin-left: -3px;
 }
 
 nav ul li:hover > ul {
@@ -115,15 +125,6 @@ nav ul ul li a {
 nav ul ul li a:hover {
 	color: #F7F198;
 	background: #EB6368;
-}
-
-ul li ul {
-	padding-left: 50px;
-}
-
-ul li ul li,
-p {
-	padding: 5px 0;
 }
 
 .button {
@@ -189,10 +190,14 @@ p {
 
 	.fleft {
 		float: left;
+		position: relative;
+		display: inline-block;
 	}
 
 	.fright {
 		float: right;
+		position: relative;
+		display: inline-block;
 	}
 }
 
@@ -204,23 +209,15 @@ p {
 	.search {
 		padding: 0.3em;
 	}
+
+	.half {
+	width: 50%;
+	}
 }
 
 @media only screen and (min-width: 60em) {
 	html {
 		font-size: 125%;
-	}
-
-	dl{
-		margin: 0;
-	}
-
-	.half {
-	width: 50%;
-	}
-
-	p {
-		padding: 0;
 	}
 }
 

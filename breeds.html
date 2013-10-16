@@ -6,24 +6,27 @@ layout: default
 
 <div class="clearfix">
 	{% for rabbit in site.pages %}
-		{% if rabbit.type == 'rabbit' %}
-			<ul>
-				<li id="{{rabbit.id}}">
-					<dl> 
-						<h2>{{rabbit.title}}</h2>
-						<dt>
-							<dd>
-								Size: {{rabbit.size}}
-							</dd>
-							<dd class="unit-l-1-2">
-								{{rabbit.summary | markdownify}}
-							</dd>
-						</dt>
-						{{rabbit.content | markdownify}}
-					</dl>
-					<a href="#top" class="button">Back to Top</a>
-				</li>
-			</ul>
+		<div class="fleft unit-l-1-2">
+			{% if rabbit.type == 'rabbitl' %}
+				<dl id="{{rabbit.id}}"> 
+					<dt>{{rabbit.title}}</dt>
+						<dd>Size: {{rabbit.size}}</dt>
+						<dd>{{rabbit.summary | markdownify}}</dd>
+						<dd>{{rabbit.content | markdownify}}</dd>
+				</dl>
+				<a href="#top" class="unitspacerl button">Back to Top</a>
+			{% endif %}
+	</div>
+	<div class="fright unit-l-1-2">
+			{% if rabbit.type == 'rabbitr' %}
+			<dl id="{{rabbit.id}}"> 
+				<dt>{{rabbit.title}}</dt>
+					<dd>Size: {{rabbit.size}}</dt>
+					<dd>{{rabbit.summary | markdownify}}</dd>
+					<dd>{{rabbit.content | markdownify}}</dd>
+			</dl>
+			<a href="#top" class="unitspacerl button">Back to Top</a>
 		{% endif %}
+	</div>
 	{% endfor %}
 </div>

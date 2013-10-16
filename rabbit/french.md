@@ -2,13 +2,13 @@
 layout: default
 id: flop
 title: French Lop
-type: rabbit
+type: rabbitr
 size: Large
 summary: The **French Lop** is a popular breed of domestic rabbit that was first developed in France in the 19th century out of selective breeding between the English Lop and the Flemish Giant. The French Lop differs from the English in that it is characterized by a heavier stature and shorter ears. The French Lop weighs in at around four and a half kilograms and has an average lifespan of five years or more.
 
 ---
 
-<img src="http://farm2.staticflickr.com/1113/769506545_b7424ca532_b.jpg" alt="French Lop" class="unit-spacer unit-l-1-2">
+<img src="http://farm2.staticflickr.com/1113/769506545_b7424ca532_b.jpg" alt="French Lop">
 
 ### Appearance
 - Lop ears of between 5 to 8 inches
