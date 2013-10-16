@@ -85,6 +85,7 @@ nav ul:after {
 
 nav ul li {
 	margin: 0;
+	padding: 0;
 }
 
 nav ul li:hover {
