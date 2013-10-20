@@ -9,29 +9,17 @@ meta: All rabbits are different depending on the breed. This page will help you 
 <div class="clear clearfix">
 	{% for rabbit in site.pages %}
 	
+		{% if rabbit.type %}
 	<div class="fleft clearfix unitspacerl unit-l-1-2">
-		{% if rabbit.type == '2coll' %}
 			<dl id="{{rabbit.id}}"> 
 				<dt>{{rabbit.title}}</dt>
-					<dd>Size: {{rabbit.size}}</dt>
+					<dd>Size: {{rabbit.size}}</dd>
 					<dd>{{rabbit.summary | markdownify}}</dd>
 					<dd>{{rabbit.content | markdownify}}</dd>
 			</dl>
 			<a href="#top" class="unitspacerl button">Back to Top</a>
-		{% endif %}
 	</div>
-
-	<div class="fright unitspacerl clearfix unit-l-1-2">
-		{% if rabbit.type == '2colr' %}
-		<dl id="{{rabbit.id}}"> 
-			<dt>{{rabbit.title}}</dt>
-				<dd>Size: {{rabbit.size}}</dt>
-				<dd>{{rabbit.summary | markdownify}}</dd>
-				<dd>{{rabbit.content | markdownify}}</dd>
-		</dl>
-		<a href="#top" class="unitspacerl button">Back to Top</a>
 		{% endif %}
-	</div>
 
 	{% endfor %}
 </div>
