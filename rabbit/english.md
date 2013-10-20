@@ -2,7 +2,7 @@
 layout: default
 id: elop
 title: English Lop
-type: 2colr
+type: rabbit
 size: Small
 summary: The **English Lop** is a fancy breed of domestic rabbit that was developed in England, in the 19th century through selective breeding, and is believed to be the first breed of lop rabbit developed by humans, and possibly one of the oldest breeds of domestic rabbit. Averaging 11 pounds (5.5 kg), the English Lop is characterized by its distinctively long lop ears, bold head and large body size, and can live up to five years or more.
 

@@ -2,7 +2,7 @@
 layout: default
 id: hlop
 title: Holland Lop
-type: 2coll
+type: rabbit
 size: Small
 summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands. The breed was recognized by the Netherlands' Governing Rabbit Council in 1964 and the American Rabbit Breeders' Association in 1979. They are popular house pets, and are very popular and competitive for show. They are also known for their sweet temperament and nonaggressive behavior, though they retain a certain doglike tenacity.
 

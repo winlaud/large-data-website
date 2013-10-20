@@ -2,7 +2,7 @@
 layout: default
 id: marsh
 title: Marsh Rabbit
-type: 2colr
+type: rabbit
 size: Small
 summary: The **marsh rabbit** (Sylvilagus palustris) is a small cottontail rabbit found in marshes and swamps of coastal regions of the Eastern and Southern United States. It is a strong swimmer and found only near regions of water. 
 

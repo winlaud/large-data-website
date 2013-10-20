@@ -2,7 +2,7 @@
 layout: default
 id: rex
 title: Rex Rabbit
-type: 2colr
+type: rabbit
 size: Medium
 summary: **The Rex Rabbit** is a breed of rabbit developed in France in 1919. Their unique, dense, plush, velvet-like fur, was caused by a mutation seen in wild rabbits in France in the late 19th century. The Rex mutation is recessive and causes the hair to protrude outwards from the body, instead of lying flat, and the guard hairs to be shortened to the length of the undercoat. 
 
