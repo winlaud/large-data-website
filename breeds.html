@@ -6,10 +6,10 @@ meta: All rabbits are different depending on the breed. This page will help you 
 <h1 id="top">Breeds of Rabbit</h1>
 <p>Different breeds of Rabbit serve different purposes. Rabbits come in neat shapes, sizes, and colors. Breeds can be different by length of fur, ears and feet too!</p>
 
-<div class="clear clearfix">
+<div class="grid">
 	{% for rabbit in site.pages %}
 		{% if rabbit.type == 'rabbit' %}
-	<div class="fleft clearfix unitspacerl unit-l-1-2">
+	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
 			<dl id="{{rabbit.id}}"> 
 				<dt>{{rabbit.title}}</dt>
 					<dd>Size: {{rabbit.size}}</dd>
