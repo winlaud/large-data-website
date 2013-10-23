@@ -4,7 +4,7 @@ id: hlop
 title: Holland Lop
 type: rabbit
 size: Small
-summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands. The breed was recognized by the Netherlands' Governing Rabbit Council in 1964 and the American Rabbit Breeders' Association in 1979. They are popular house pets, and are very popular and competitive for show. They are also known for their sweet temperament and nonaggressive behavior, though they retain a certain doglike tenacity.
+summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands. They are popular house pets, and are very popular and competitive for show. They are also known for their sweet temperament and nonaggressive behavior.
 
 --- 
 
@@ -13,24 +13,12 @@ summary: The **Holland Lop** is a breed of rabbit originating in the Netherlands
 ###Appearance
 - Small compact breed
 - Stocky build
-- Short, thick-set body
+- Short, thick-set body and strong legs
 - Rounded haunches
-- Short, strong legs
 - Broad head
 - Strongly curved profile 
 - Broad, thick tear drop shaped ears that hang down beside the head.
 - Dense coat of soft, medium length hair
-
-####Varieties
-- Self: Black, Blue, Chocolate, Lilac, REW and BEW 
-- Shaded: Sable Point, Siamese Sable, Seal, Smoke Pearl, Black Tort, Blue Tort, Chocolate Tort and Lilac Tort. 
-- Agouti: Chestnut Agouti, Chocolate Chestnut Agouti, Chinchilla, Chocolate Chinchilla, Lynx, Opal and Squirrel 
-- Tan Pattern: Black Otter, Blue Otter, Chocolate Otter and Lilac Otter.
-- Wide Band: Cream, Fawn, Frosty, Orange, Red and Tri-colors.
-- Pointed White: Black Pointed White, Blue Pointed White, Chocolate Pointed White and Lilac Pointed White.
-- Ticked: Gold Tipped Steel and Silver Tipped Steel in Black, Chocolate, Blue and Lilac.
-- Broken: Any color in conjunction with white.
-
 
 ###History
 

@@ -15,8 +15,6 @@ summary: The **Flemish Giant** is a breed of domestic rabbit (Oryctolagus cunicu
 - Back arch starting at the back of the shoulders through to the base of the tail
 - Long and powerful body
 - Relatively broad hindquarters
-- Bucks have a broad, massive head
-- Does may have a large, full, evenly carried dewlap (the fold of skin under their chins)
 - Glossy and dense fur
 
 ####Varieties
@@ -37,4 +35,3 @@ ARBA standard has seven different colors:
 - The first standards for the breed were written in 1893
 - An ancestor of many rabbit breeds all over the world
 - Exported from England and Belgium to America in the early 1890s to help improve the size of meat rabbits during the great *rabbit boom*.
-- Started appearing at small livestock shows in 1910

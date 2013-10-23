@@ -40,7 +40,7 @@ img {
 
 p {
 	font-family: 'Roboto Slab', serif;
-	padding:0 10% 1rem 0;
+	padding:0 5% 1rem 0;
 	margin:0;
 }
 
@@ -135,6 +135,7 @@ nav ul ul li a:hover {
 .button {
 	background-color: #AC1F24;
 	color: #F7F198;
+	width: 50%;
 	padding: 5px 20px;
 	border-radius: 5px;
 	text-decoration: none;
@@ -166,6 +167,10 @@ nav ul ul li a:hover {
 	vertical-align: text-top;
 }
 
+.breed{
+	display: inline-block;
+}
+
 @media only screen and (min-width: 38em) {
 	nav ul {
 		width:80%;
@@ -184,7 +189,7 @@ nav ul ul li a:hover {
 		padding: 0 8%;
 		float: left;
 	}
-	
+
 	.searchbar {
 		float: none;
 		clear: both;
@@ -212,9 +217,14 @@ nav ul ul li a:hover {
 		padding: 0.3em;
 	}
 
-	.half {
-	width: 50%;
+	.martop {
+		margin-top: 6.5%;
 	}
+
+	.hp {
+		width: 95%;
+	}
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -249,6 +259,7 @@ nav ul ul li a:hover {
 	html {
 		font-size: 200%;
 	}
+
 }
 
 @media only screen and (min-width: 132em) {
