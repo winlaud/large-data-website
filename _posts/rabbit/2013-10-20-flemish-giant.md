@@ -4,6 +4,7 @@ id: flemish
 title: Flemish Giant Rabbit
 type: rabbit
 size: Large
+category: rabbit
 summary: The **Flemish Giant** is a breed of domestic rabbit (Oryctolagus cuniculus) known for its large size.
 
 ---

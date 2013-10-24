@@ -4,7 +4,7 @@ id: rarebit
 title: Welsh Rarebit
 type: rm
 summary: "**Welsh rarebit** or Welsh rabbit is a dish that originated from 18th-century Great Britain."
-
+category: food
 ---
 <img src="http://upload.wikimedia.org/wikipedia/commons/a/ad/Jielbeaumadier_welsh_2010.jpg" alt="Welsh Rarebit">
 

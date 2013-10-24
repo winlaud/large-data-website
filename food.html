@@ -7,7 +7,7 @@ meta: Rabbit recipies and information on how to cook them.
 <p>Rabbit meat is lean meat and should be cooked in a specific way. Here are some recipies and something to look out for when cooking and eating rabbit meat.</p>
 
 <div class="grid">
-	{% for food in site.posts %}
+	{% for food in site.categories.food %}
 		{% if food.type == 'rm' %}
 	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
 			<dl id="{{food.id}}"> 

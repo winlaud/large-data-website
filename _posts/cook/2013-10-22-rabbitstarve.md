@@ -4,6 +4,7 @@ id: rstarve
 title: Rabbit Starvation
 type: rm
 summary: "**Rabbit starvation** is a form of malnutrition caused by eating too much lean meat."
+category: food
 
 ---
 

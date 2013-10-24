@@ -4,6 +4,7 @@ id: new-zealand
 title: New Zealand White Rabbit
 type: rabbit
 size: Large
+category: rabbit
 summary: The **New Zealand White Rabbits** are a breed of rabbit,which are from New Zealand.
 
 ---
