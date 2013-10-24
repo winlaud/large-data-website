@@ -4,7 +4,7 @@ id: rex
 title: Rex Rabbit
 type: rabbit
 size: Medium
-summary: **The Rex Rabbit** is a breed of rabbit developed in France in 1919.
+summary: "**The Rex Rabbit** is a breed of rabbit developed in France in 1919."
 
 ---
 <img src="http://upload.wikimedia.org/wikipedia/commons/7/7c/Broken_Castor_Rex_Rabbit.JPG" alt="Rex Rabbit">

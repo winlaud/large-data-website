@@ -3,7 +3,7 @@ layout: default
 id: rpie
 title: Rabbit Pie
 type: rm
-summary: **Rabbit pie** is a game pie is part of traditional American and English cuisine. It has recently found renewed popularity.
+summary: "**Rabbit pie** is a game pie is part of traditional American and English cuisine. It has recently found renewed popularity."
 
 ---
 
