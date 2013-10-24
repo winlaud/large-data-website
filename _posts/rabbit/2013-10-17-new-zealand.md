@@ -1,6 +1,6 @@
 ---
 layout: default
-id: new-zealand
+theId: new-zealand
 title: New Zealand White Rabbit
 type: rabbit
 size: Large

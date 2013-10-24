@@ -1,6 +1,6 @@
 ---
 layout: default
-id: rarebit
+theId: rarebit
 title: Welsh Rarebit
 type: rm
 summary: "**Welsh rarebit** or Welsh rabbit is a dish that originated from 18th-century Great Britain."

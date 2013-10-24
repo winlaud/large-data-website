@@ -1,6 +1,6 @@
 ---
 layout: default
-id: flemish
+theId: flemish
 title: Flemish Giant Rabbit
 type: rabbit
 size: Large
