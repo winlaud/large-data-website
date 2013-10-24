@@ -179,7 +179,7 @@ div dl dd ul li p{
 
 @media only screen and (min-width: 38em) {
 	nav ul {
-		width:80%;
+		
 		text-align: center;
 	}
 
@@ -192,15 +192,17 @@ div dl dd ul li p{
 	}
 
 	nav ul li {
-		padding: 0 8%;
-		float: left;
+		padding: 0 1em;
+		display: inline-block;
+	}
+
+	nav ul li ul li {
+		width: 100%;
+		text-align: center;
 	}
 
 	.searchbar {
-		float: none;
-		clear: both;
-		width: 100%;
-		text-align: center;
+
 		padding: 5px;
 	}
 
@@ -216,7 +218,13 @@ div dl dd ul li p{
 
 @media only screen and (min-width: 50em) {
 	nav ul {
-		width:60%;
+		text-align: left;
+	}
+
+	.searchbar {
+		padding-top: 1em;
+		padding-right: 2em;
+		float: right;
 	}
 
 	.search {

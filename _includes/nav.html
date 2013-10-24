@@ -2,7 +2,7 @@
         <nav>
         	<ul>
             	<li>
-                    <a href="#" onclick="document.getElementById('content1').style.display=(document.getElementById('content1').style.display=='none')?'block':'none'">Home</a>
+                    <a href="#" id="home-link">Home</a>
                 	<ul id='content1' style='display:none;'>
                     	<li><a href="{{site.baseurl}}/index.html#intro" rel="home">What is a Rabbit</a></li>
                         <li><a href="{{site.baseurl}}/index.html#lifespan" rel="home">Lifespan</a></li>
@@ -11,7 +11,7 @@
                 </li>
 
                 <li>
-                    <a href="#" onclick="document.getElementById('content2').style.display=(document.getElementById('content2').style.display=='none')?'block':'none'">Breeds</a>
+                    <a href="#" id="breeds-link">Breeds</a>
                     <ul id='content2' style='display:none;'>
                         <li><a href="{{site.baseurl}}/breeds.html#angora">Angora</a></li>
                         <li><a href="{{site.baseurl}}/breeds.html#elop">English Lop</a></li>
@@ -25,7 +25,7 @@
                 </li>
 
                 <li>
-                    <a href="#" onclick="document.getElementById('content3').style.display=(document.getElementById('content3').style.display=='none')?'block':'none'">Food</a>
+                    <a href="#" id="food-link">Food</a>
                 	<ul id='content3' style='display:none;'>
                         <li><a href="{{site.baseurl}}/food.html#cook">Cooking Rabbits</a></li>
                         <li><a href="{{site.baseurl}}/food.html#rpie">Rabbit Pie</a></li>
@@ -40,3 +40,35 @@
             </ul>
         </nav>
     </div>
+
+    <script>
+        document.getElementById('home-link').onclick = function () {
+           document.getElementById('content1').style.display =
+                (document.getElementById('content1').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content2').style.display = 'none';
+            document.getElementById('content3').style.display = 'none';
+            return false;
+        }
+
+        document.getElementById('breeds-link').onclick = function () {
+           document.getElementById('content2').style.display =
+                (document.getElementById('content2').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content1').style.display = 'none';
+            document.getElementById('content3').style.display = 'none';
+            return false;
+        }
+        
+        document.getElementById('food-link').onclick = function () {
+           document.getElementById('content3').style.display =
+                (document.getElementById('content3').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content1').style.display = 'none';
+            document.getElementById('content2').style.display = 'none';
+            return false;
+        }
+    </script>
