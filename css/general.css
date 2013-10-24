@@ -132,6 +132,12 @@ nav ul ul li a:hover {
 	background: #EB6368;
 }
 
+div dl dd p,
+div dl dd ul,
+div dl dd ul li p{
+	padding: 0;
+}
+
 .button {
 	background-color: #AC1F24;
 	color: #F7F198;
