@@ -201,11 +201,6 @@ div dl dd ul li p{
 		text-align: center;
 	}
 
-	.searchbar {
-
-		padding: 5px;
-	}
-
 	.fleft {
 		float: left;
 	}
@@ -227,10 +222,6 @@ div dl dd ul li p{
 		float: right;
 	}
 
-	.search {
-		padding: 0.3em;
-	}
-
 	.martop {
 		margin-top: 6.5%;
 	}
@@ -241,55 +232,47 @@ div dl dd ul li p{
 
 }
 
-@media only screen and (min-width: 60em) {
+
+
+@media only screen and (min-width: 75em) {
+	html {
+		font-size: 110%;
+	}
+
+	nav ul li ul{
+		width: 20%;
+	}
+
+}
+
+
+@media only screen and (min-width: 100em) {
 	html {
 		font-size: 125%;
 	}
 }
 
-@media only screen and (min-width: 75em) {
-	html {
-		font-size: 150%;
-	}
-
-	.search {
-		padding: 0.5em;
-	}
-}
-
-@media only screen and (min-width: 87em) {
-	html {
-		font-size: 175%;
-	}
-}
-
-@media only screen and (min-width: 100em) {
-	html {
-		font-size: 200%;
-	}
-}
-
 @media only screen and (min-width: 120em) {
 	html {
-		font-size: 200%;
+		font-size: 145%;
 	}
 
 }
 
 @media only screen and (min-width: 132em) {
 	html {
-		font-size: 230%;
+		font-size: 160%;
 	}
 }
 
 @media only screen and (min-width: 150em) {
 	html {
-		font-size: 270%;
+		font-size: 180%;
 	}
 }
 
 @media only screen and (min-width: 174em) {
 	html {
-		font-size: 300%;
+		font-size: 210%;
 	}
 }
