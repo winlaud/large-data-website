@@ -218,7 +218,7 @@ a: active {
 }
 
 a:focus {
-	outline: 3px solid #FFF;
+	outline: 3px solid #000;
 }
 
 @media only screen and (min-width: 38em) {
