@@ -3,22 +3,25 @@ layout: default
 title: Rabbit Breeds – Info on Different Rabbit Breeds
 meta: All rabbits are different depending on the breed. This page will help you identify them. 
 ---
-<h1 id="top">Breeds of Rabbit</h1>
-<p>Different breeds of Rabbit serve different purposes. Rabbits come in neat shapes, sizes, and colors. Breeds can be different by length of fur, ears and feet too!</p>
 
-<div class="grid">
-	{% for rabbit in site.categories.rabbit %}
-		{% if rabbit.type == 'rabbit' %}
-	<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-			<dl id="{{rabbit.theId}}"> 
-				<dt>{{rabbit.title}}</dt>
-					<dd>Size: {{rabbit.size}}</dd>
-					<dd>{{rabbit.summary | markdownify}}</dd>
-					<dd>{{rabbit.content | markdownify}}</dd>
-			</dl>
-			<a href="#top" class="unitspacerl button">Back to Top</a>
+<main role="main" id="main">
+	<h1 id="top">Breeds of Rabbit</h1>
+	<p>Different breeds of Rabbit serve different purposes. Rabbits come in neat shapes, sizes, and colors. Breeds can be different by length of fur, ears and feet too!</p>
+
+	<div class="grid">
+		{% for rabbit in site.categories.rabbit %}
+			{% if rabbit.type == 'rabbit' %}
+		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+				<dl id="{{rabbit.theId}}"> 
+					<dt>{{rabbit.title}}</dt>
+						<dd>Size: {{rabbit.size}}</dd>
+						<dd>{{rabbit.summary | markdownify}}</dd>
+						<dd>{{rabbit.content | markdownify}}</dd>
+				</dl>
+				<a href="#top" class="unitspacerl button">Back to Top</a>
+		</div>
+			{% endif %}
+
+		{% endfor %}
 	</div>
-		{% endif %}
-
-	{% endfor %}
-</div>
+</main>
