@@ -8,7 +8,7 @@ category: food
 
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/b/b0/MeatPie.JPG" alt="Rabbit Pie">
+<img src="{{site.baseurl}}/img/rabbit-pie.jpg" alt="Rabbit Pie">
 
 ###Ingredients
 

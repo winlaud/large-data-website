@@ -8,7 +8,7 @@ category: food
 
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/5/53/Skull_and_crossbones.svg" alt="Skull Crossbone">
+<img src="{{site.baseurl}}/img/skull.svg" alt="Skull Crossbone">
 
 **Rabbit starvation**, also referred to as *protein poisoning* or *mal de caribou*, is a form of acute malnutrition caused by excess consumption of any lean meat (e.g., rabbit) coupled with a lack of other sources of nutrients usually in combination with other stressors, such as severe cold or dry environment. 
 

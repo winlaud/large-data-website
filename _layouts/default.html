@@ -37,5 +37,37 @@
 
 {{content}}
 
+ <script>
+        document.getElementById('home-link').onclick = function () {
+           document.getElementById('content1').style.display =
+                (document.getElementById('content1').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content2').style.display = 'none';
+            document.getElementById('content3').style.display = 'none';
+            return false;
+        }
+
+        document.getElementById('breeds-link').onclick = function () {
+           document.getElementById('content2').style.display =
+                (document.getElementById('content2').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content1').style.display = 'none';
+            document.getElementById('content3').style.display = 'none';
+            return false;
+        }
+        
+        document.getElementById('food-link').onclick = function () {
+           document.getElementById('content3').style.display =
+                (document.getElementById('content3').style.display=='none')
+                ? 'block'
+                : 'none';
+            document.getElementById('content1').style.display = 'none';
+            document.getElementById('content2').style.display = 'none';
+            return false;
+        }
+    </script>
+
 </body>
 </html>

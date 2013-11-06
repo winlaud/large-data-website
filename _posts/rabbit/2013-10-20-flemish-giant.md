@@ -9,7 +9,7 @@ summary: The **Flemish Giant** is a breed of domestic rabbit (Oryctolagus cunicu
 
 ---
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/4/40/Flemish_giant_fawn_doe.jpg" alt="Flemish Giant">
+<img src="{{site.baseurl}}/img/flemish-giant.jpg" alt="Flemish Giant">
 
 ###Appearance
 - One of the largest breeds of domestic rabbit
@@ -35,4 +35,4 @@ ARBA standard has seven different colors:
 - Descended from a number of meat and fur breeds
 - The first standards for the breed were written in 1893
 - An ancestor of many rabbit breeds all over the world
-- Exported from England and Belgium to America in the early 1890s to help improve the size of meat rabbits during the great *rabbit boom*.
+- Exported from England and Belgium to America in the early 1890s to help improve the size of meat rabbits during the great *rabbit boom*
