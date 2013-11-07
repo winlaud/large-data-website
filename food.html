@@ -12,8 +12,8 @@ meta: Rabbit recipies and information on how to cook them.
 		{% for food in site.categories.food %}
 			{% if food.type == 'rm' %}
 		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
-				<dl id="{{food.theId}}"> 
-					<dt>{{food.title}}</dt>
+				<dl> 
+					<dt id="{{food.theId}}" tabindex="0">{{food.title}}</dt>
 						<dd>{{food.summary | markdownify}}</dd>
 						<dd>{{food.content | markdownify}}</dd>
 				</dl>
