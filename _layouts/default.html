@@ -67,6 +67,18 @@
             document.getElementById('content2').style.display = 'none';
             return false;
         }
+
+        if (!Modernizr.inlinesvg) {
+            ;(function () {
+                var imgs = document.getElementsByTagName('img')
+                , totalImgs = imgs.length
+                , i = 0
+             
+                for (i = 0; i < totalImgs; i++) {
+                    imgs[i].src = imgs[i].src.replace(/svg$/, 'png')
+                }
+            }())
+        }
     </script>
 
 </body>
