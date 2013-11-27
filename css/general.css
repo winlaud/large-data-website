@@ -157,6 +157,7 @@ div dl dd ul li p{
 	padding: 5px 20px;
 	border-radius: 5px;
 	text-decoration: none;
+	display: inline-block;
 }
 
 .button:hover{
