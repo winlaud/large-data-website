@@ -13,7 +13,7 @@ meta: Rabbit recipies and information on how to cook them.
 	<div class="grid">
 		{% for food in site.categories.food %}
 			{% if food.type == 'rm' %}
-		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+		<div class="unit unit-spacerl unit-s-1 unit-m-1-2 unit-l-1-2">
 				<dl> 
 					<dt id="{{food.theId}}" tabindex="0">{{food.title}}</dt>
 						<dd>{{food.summary | markdownify}}</dd>

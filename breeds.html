@@ -13,7 +13,7 @@ meta: All rabbits are different depending on the breed. This page will help you 
 	<div class="grid">
 		{% for rabbit in site.categories.rabbit %}
 			{% if rabbit.type == 'rabbit' %}
-		<div class="unit unit-s-1 unit-m-1-2 unit-l-1-2">
+		<div class="unit unit-spacerl unit-s-1 unit-m-1-2 unit-l-1-2">
 				<dl> 
 					<dt id="{{rabbit.theId}}" tabindex="0">{{rabbit.title}}</dt>
 						<dd>Size: {{rabbit.size}}</dd>
